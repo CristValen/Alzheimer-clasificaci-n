@@ -17,3 +17,6 @@ Clase - 4: Demente muy leve (2240 imágenes)
 
 El objetivo principal de analizar este conjunto de datos es diseñar/desarrollar un marco o arquitectura precisa para la clasificación de la enfermedad de Alzheimer.
 
+# Paciente con Demencia Leve
+
+![Alzheimer_clasificacion](https://github.com/CristValen/Alzheimer-clasificaci-n/blob/main/mild_92.jpg?raw=true)
